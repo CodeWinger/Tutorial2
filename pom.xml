@@ -8,6 +8,7 @@ http://maven.apache.org/maven-v4_0_0.xsd">
   <artifactId>tutorial1</artifactId>
   <version>1.0</version>
 
+
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
